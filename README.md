@@ -34,7 +34,7 @@
   &nbsp <i>- Hệ thống:</i><br>
   &nbsp &nbsp + Ưu đãi: voucher; Exploit Promotion<br>
   &nbsp &nbsp + Quản lý nhà bán hàng: sàn lọc sản phẩm <br>
-  &nbsp &nbsp + Quản lý đơn vị vận chuyển; thông số ứng dụng, banner<br>
+  &nbsp &nbsp + Quản lý đơn vị vận chuyển; thông số ứng dụng, banner<br> 
 
   
 
