@@ -29,7 +29,7 @@
   <br><br>
   &nbsp <i>- Người bán(cửa hàng):</i><br>
   &nbsp &nbsp + Đăng kí bán hàng<br>
-  &nbsp &nbsp + Quản lý cửa hàng cá nhân: thông tin cửa hàng, sản phẩm; khuyến mãi; thống kê  
+  &nbsp &nbsp + Quản lý cửa hàng cá nhân: thông tin cửa hàng, sản phẩm; khuyến mãi; thống kê  <br>
   <b>Application:</b>
   &nbsp <i>- Hệ thống:</i><br>
   &nbsp &nbsp + Ưu đãi: voucher; Exploit Promotion<br>
