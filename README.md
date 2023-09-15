@@ -26,10 +26,10 @@
   &nbsp &nbsp + Xác thực người dùng: đăng nhập, đăng kí<br>
   &nbsp &nbsp + Mua hàng: tìm kiếm sản phẩm, cửa hàng; quản lý giỏ hàng; đặt hàng; thanh toán<br>
   &nbsp &nbsp + Quản lý tài khoản cá nhân: thông tin cá nhân; sổ địa chỉ; lịch sử đơn hàng, yêu thích, ưu đãi của tôi
-  <br><br>
+  <br>
   &nbsp <i>- Người bán(cửa hàng):</i><br>
   &nbsp &nbsp + Đăng kí bán hàng<br>
-  &nbsp &nbsp + Quản lý cửa hàng cá nhân: thông tin cửa hàng, sản phẩm; khuyến mãi; thống kê  <br>
+  &nbsp &nbsp + Quản lý cửa hàng cá nhân: thông tin cửa hàng, sản phẩm; khuyến mãi; thống kê  <br><br>
   <b>Application:</b> <br>
   &nbsp <i>- Hệ thống:</i><br>
   &nbsp &nbsp + Ưu đãi: voucher; Exploit Promotion<br>
