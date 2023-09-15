@@ -8,11 +8,8 @@
   <p>3.Đỗ Huệ Mẫn - Thành viên</p>
   <center>
   <div style="display:flex;justify-content: center;align-items: center;">
-    <img style="width:100px">
     <img style="float:left; width:200px;" src="https://github.com/T6-PTPM2023-A209-E-commerce/Profile/assets/130044304/c64eefea-6a7d-445c-8657-5787266d6d00">
-    <img style="width:100px">
     <img style="float:left; width:200px;" src="https://github.com/T6-PTPM2023-A209-E-commerce/Profile/assets/130044304/fbd05568-7479-4266-8766-1e3f55722b95">
-    <img style="width:100px">
     <img style="float:left; width:200px;" src="https://github.com/T6-PTPM2023-A209-E-commerce/Profile/assets/130044304/2a0db345-9de3-4481-9e84-4bbd699f65db">
   </div>
     </center>
